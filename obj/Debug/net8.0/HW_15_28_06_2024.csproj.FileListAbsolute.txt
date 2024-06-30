@@ -1,0 +1,17 @@
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\bin\Debug\net8.0\HW_15_28_06_2024.exe
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\bin\Debug\net8.0\HW_15_28_06_2024.deps.json
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\bin\Debug\net8.0\HW_15_28_06_2024.runtimeconfig.json
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\bin\Debug\net8.0\HW_15_28_06_2024.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\bin\Debug\net8.0\HW_15_28_06_2024.pdb
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\obj\Debug\net8.0\HW_15_28_06_2024.csproj.AssemblyReference.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\obj\Debug\net8.0\HW_15_28_06_2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\obj\Debug\net8.0\HW_15_28_06_2024.AssemblyInfoInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\obj\Debug\net8.0\HW_15_28_06_2024.AssemblyInfo.cs
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\obj\Debug\net8.0\HW_15_28_06_2024.csproj.CoreCompileInputs.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\obj\Debug\net8.0\HW_15_28.A1FE7678.Up2Date
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\obj\Debug\net8.0\HW_15_28_06_2024.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\obj\Debug\net8.0\refint\HW_15_28_06_2024.dll
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\obj\Debug\net8.0\HW_15_28_06_2024.pdb
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\obj\Debug\net8.0\HW_15_28_06_2024.genruntimeconfig.cache
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_15_28_06_2024\obj\Debug\net8.0\ref\HW_15_28_06_2024.dll
